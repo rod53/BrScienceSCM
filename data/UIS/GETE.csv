@@ -1,4 +1,4 @@
-﻿NATMON_IND;Indicator;LOCATION;Country;TIME;Time;Value;Flag Codes;Flags
+﻿NATMON_IND;Indicator;Code;Country;Year;Time;Value;Flag Codes;Flags
 GETE;Government expenditure on tertiary education as a percentage of GDP (%);ABW;Aruba;2000;2000;0.49912;;
 GETE;Government expenditure on tertiary education as a percentage of GDP (%);ABW;Aruba;2001;2001;0.58361;;
 GETE;Government expenditure on tertiary education as a percentage of GDP (%);ABW;Aruba;2002;2002;0.57682;;

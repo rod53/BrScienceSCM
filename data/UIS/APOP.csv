@@ -1,4 +1,4 @@
-﻿DEMO_IND;Indicator;LOCATION;Country;TIME;Time;Value;Flag Codes;Flags
+﻿DEMO_IND;Indicator;Code;Country;Year;Time;Value;Flag Codes;Flags
 APOP;Fertility rate, total (births per woman);AUS;Australia;2000;2000;1.8;;
 APOP;Fertility rate, total (births per woman);AUS;Australia;2001;2001;1.7;;
 APOP;Fertility rate, total (births per woman);AUS;Australia;2002;2002;1.8;;
