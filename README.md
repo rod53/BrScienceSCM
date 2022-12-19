@@ -4,4 +4,5 @@ This study aims to evaluate how the change in government investment policy in sc
 NOTES OF LAST UPDATE:
 - The Draft of the article was updated, eventhough incomplete;
 - Regarding the SDID method, all the calculations conducted on Stata considered only data from Incites until 2021; in January of 2023 this analysis will be expanded to the other databases and the year of 2022 will be included for all databases;
-- Also, for the submission I hope to be able to calculate everything in Python.
+- Also, for the submission I hope to be able to calculate everything in Python;
+- The cheatsheet upload is considering the code to be used after the inclusion of the other databases, for this intial screen I used the regular names from the original source (Incites).
